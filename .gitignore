@@ -1,0 +1,5 @@
+.env
+.venv
+__pycache__
+.ideacodesc_preprocessed.jsonl
+datasets/merged_150000_code_datasets.jsonl
